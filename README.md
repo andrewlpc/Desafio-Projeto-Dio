@@ -12,9 +12,9 @@ Meu nome é **Andrew Castro**, tenho 29 anos e sou ex-atleta
 
 profissional de basquete.
 
-Esse é o meu inicio de projeto aqui no **Git e GitHub**, e nele eu queria apresentar
+Esse é o meu primeiro projeto no **Git e GitHub**, e nele eu queria apresentar
 
-apenas alguns clubes que tive passagens durante a minha carreira no Basquete:basketball:
+apenas alguns clubes dos quais tive passagens durante a minha carreira no Basquete:basketball:
 
 
 
